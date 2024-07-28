@@ -1,0 +1,16 @@
+.fir:hover .first{
+   opacity: 1;
+   display: block;
+}
+.sec:hover .second{
+   opacity: 1;
+   display: block;
+}
+.thir:hover .third{
+   opacity: 1;
+   display: block;
+}
+.four:hover .fourth{
+   opacity: 1;
+   display: block;
+}

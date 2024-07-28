@@ -1,0 +1,10 @@
+.image::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    z-index: -50;
+    right: 0;
+    background-color: #6CEAA7;
+    width: 150px;
+    height: 250px;
+}
